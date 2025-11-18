@@ -1,5 +1,5 @@
 global:
- message: welcome to customer-service dev environment
+ message: welcome to customer-service prod environment
 server:
  port:8083
 message: hello from dev
