@@ -7,5 +7,5 @@ datasource:
 jpa:
  hilbernate:
   ddl-auto: none
-show-sql:false
+show-sql: false
  
